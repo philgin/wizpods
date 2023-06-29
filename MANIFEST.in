@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include wizpods *.css
+recursive-include wizpods *.csv
+recursive-include wizpods *.html
+recursive-include wizpods *.ico
+recursive-include wizpods *.js
+recursive-include wizpods *.json
+recursive-include wizpods *.md
+recursive-include wizpods *.png
+recursive-include wizpods *.py
+recursive-include wizpods *.svg
+recursive-include wizpods *.txt
+recursive-exclude wizpods *.pyc
