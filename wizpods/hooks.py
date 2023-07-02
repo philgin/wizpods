@@ -1,7 +1,7 @@
 from . import __version__ as app_version
 
 app_name = "wizpods"
-app_title = "WizPods"
+app_title = "Philgin WizPods"
 app_publisher = "Philgin Solutions"
 app_description = "WizPods Advanced Technologies"
 app_email = "philgin007@gmail.com"
@@ -130,6 +130,13 @@ app_license = "MIT"
 #		"wizpods.tasks.monthly"
 #	],
 # }
+
+website_context = {
+    "favicon": "/assets/wizpods/images/wizpods-favicon.svg",
+    "splash_image": "/assets/wizpods/images/wizpods-logo-with-name.png"
+}
+
+app_logo_url = '/assets/wizpods/images/wizpods-logo.svg'
 
 # Testing
 # -------
