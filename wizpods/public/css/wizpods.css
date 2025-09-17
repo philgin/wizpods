@@ -1,3 +1,5 @@
-.dropdown-help, #toolbar-help {
-    display: none !important;
+/* Hide Help dropdown in navbar */
+li.dropdown.dropdown-help,
+li.dropdown.dropdown-help.dropdown-mobile {
+  display: none !important;
 }
