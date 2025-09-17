@@ -1,9 +1,9 @@
 from . import __version__ as app_version
 
 app_name = "wizpods"
-app_title = "Philgin WizPods"
+app_title = "Philgin Solutions"
 app_publisher = "Philgin Solutions"
-app_description = "WizPods Advanced Technologies"
+app_description = "Philgin Technologies & Solutions"
 app_email = "philgin007@gmail.com"
 app_license = "MIT"
 
@@ -11,7 +11,7 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/wizpods/css/wizpods.css"
+app_include_css = "/assets/wizpods/css/wizpods.css"
 # app_include_js = "/assets/wizpods/js/wizpods.js"
 
 # include js, css files in header of web template
