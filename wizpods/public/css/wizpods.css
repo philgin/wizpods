@@ -3,3 +3,13 @@ li.dropdown.dropdown-help,
 li.dropdown.dropdown-help.dropdown-mobile {
   display: none !important;
 }
+
+
+/* Hide Help menu in Desk navbar (cover all versions) */
+li.dropdown.dropdown-help,
+li.dropdown.dropdown-help.dropdown-mobile,
+li[data-label="Help"],
+.navbar a[aria-label="Help"],
+.navbar a[title="Help"] {
+  display: none !important;
+}
