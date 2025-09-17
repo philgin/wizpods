@@ -9,7 +9,7 @@ from wizpods import __version__ as version
 setup(
 	name="wizpods",
 	version=version,
-	description="WizPods Advanced Technologies",
+	description="Philgin Advanced Technologies",
 	author="Philgin Solutions",
 	author_email="philgin007@gmail.com",
 	packages=find_packages(),

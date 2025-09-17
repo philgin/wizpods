@@ -2,7 +2,7 @@
 Configuration for docs
 """
 
-# source_link = "https://github.com/[org_name]/wizpods"
+# source_link = "https://github.com/philgin/wizpods"
 # headline = "App that does everything"
 # sub_heading = "Yes, you got that right the first time, everything"
 
