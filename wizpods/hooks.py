@@ -133,7 +133,7 @@ app_include_js = "/assets/wizpods/js/wizpods.js"
 
 website_context = {
     "favicon": "/assets/wizpods/images/wizpods-favicon.svg",
-    "splash_image": "/assets/wizpods/images/wizpods-logo-with-name.png"
+    "splash_image": "/assets/wizpods/images/wizpods-logo.png"
 }
 
 app_logo_url = '/assets/wizpods/images/wizpods-logo.svg'
