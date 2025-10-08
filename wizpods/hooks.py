@@ -200,9 +200,8 @@ app_logo_url = '/assets/wizpods/images/wizpods-logo.svg'
 #	}
 # ]
 
-# Authentication and authorization
-# --------------------------------
 
-# auth_hooks = [
-#	"wizpods.auth.validate"
-# ]
+# Patches
+patches = [
+    "wizpods.patches.add_roundoff_field_to_pos_invoice"
+]
